@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud Bousbih and I'm a IT student, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud Bousbih and I'm a Full stack developer, from Tunisia</h2>
 
 ###
 
