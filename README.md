@@ -26,8 +26,6 @@ Document storage, search, and user access built with PHP, MySQL, and custom UI
 🔹 **Production Tracking System**  
 Used at Yazaki for monitoring production, KPIs, and export workflow  
 
-> *(I can helpك تُحضّر READMEs لكل مشروع إذا أحببت)*
-
 ---
 
 ## 🌐 Connect with Me
