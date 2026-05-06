@@ -10,11 +10,7 @@
 ## 🔥 Highlighted Stats
 
 <div align="center">
-  
-  [![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudBH&show_icons=true&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/mahmoudBH)
-  
-  [![Mahmoud's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudBH&layout=compact&langs_count=6&theme=dracula)](https://github.com/mahmoudBH)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmoudBH&theme=dracula" />
 </div>
 
 ---
